@@ -78,3 +78,4 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+source /usr/local/lib/python2.7/site-packages/powerline/bindings/zsh/powerline.zsh

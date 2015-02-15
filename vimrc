@@ -21,5 +21,5 @@ filetype plugin indent on    " required
 " Put your non-Plugin stuff after this line
 syntax enable
 colorscheme monokai
-let g:rehash256 = 1
-
+source /usr/local/lib/python2.7/site-packages/powerline/bindings/vim/plugin/powerline.vim
+set laststatus=2
