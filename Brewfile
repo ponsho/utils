@@ -14,3 +14,4 @@ cask 'java'
 
 brew 'wget'
 brew 'tmux'
+brew 'python'
