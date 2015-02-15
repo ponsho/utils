@@ -13,4 +13,4 @@ cask 'vlc'
 cask 'java'
 
 brew 'wget'
-
+brew 'tmux'
