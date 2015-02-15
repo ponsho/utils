@@ -12,3 +12,5 @@ cask 'iterm2'
 cask 'vlc'
 cask 'java'
 
+brew 'wget'
+
