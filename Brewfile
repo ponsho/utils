@@ -6,6 +6,8 @@ cask 'vlc'
 cask 'spotify'
 cask 'google-chrome'
 cask 'dropbox'
+cask 'skype'
+cask 'utorrent'
 
 #Dev tools
 cask 'iterm2'
