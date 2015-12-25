@@ -23,3 +23,5 @@ brew 'wget'
 brew 'tmux'
 brew 'maven'
 brew 'gradle'
+brew 'cmake'
+
