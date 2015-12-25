@@ -1,19 +1,21 @@
 ## Run with brew bundle
 tap 'caskroom/cask'
-cask 'alfred'
 cask 'caffeine'
 cask 'flux'
-
-cask 'virtualbox'
-cask 'vagrant'
-
-cask 'google-chrome'
-cask 'iterm2'
 cask 'vlc'
-cask 'java'
+cask 'spotify'
+cask 'google-chrome'
 
+#Dev tools
+cask 'iterm2'
+cask 'java'
+cask 'dockertoolbox'
+cask 'sublime-text'
+cask 'intellij-idea'
+cask 'gitx'
+
+brew 'zsh-syntax-highlighting'
 brew 'wget'
 brew 'tmux'
-brew 'python'
 brew 'maven'
 brew 'gradle'
