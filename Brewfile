@@ -5,6 +5,7 @@ cask 'flux'
 cask 'vlc'
 cask 'spotify'
 cask 'google-chrome'
+cask 'dropbox'
 
 #Dev tools
 cask 'iterm2'
@@ -13,6 +14,7 @@ cask 'dockertoolbox'
 cask 'sublime-text'
 cask 'intellij-idea'
 cask 'gitx'
+
 
 brew 'zsh-syntax-highlighting'
 brew 'wget'
